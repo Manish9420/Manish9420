@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=200&section=header&text=Manish%20Chaudhari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Node.js&descSize=18&descAlignY=60" alt="Manish Chaudhari" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=2%2B+Years+of+Professional+Experience;React.js+%7C+Next.js+%7C+Node.js+Developer;BCA+%2B+MCA+Graduate;Building+scalable%2C+user-focused+web+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=2%2B+Years+of+Professional+Experience;React.js+%7C+Next.js+%7C+Express.js+Developer;BCA+%2B+MCA+Graduate;Building+scalable%2C+user-focused+web+products" alt="Typing SVG" />
 </a>
 
 <br/><br/>
